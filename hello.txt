@@ -1,0 +1,2 @@
+I am srikanth 
+this is first step of learing of git
