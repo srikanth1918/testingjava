@@ -2,4 +2,7 @@ hi
 ks
 sdm;s
 smc;dsl
-
+changing data for 
+to check 
+reset command in 
+git
