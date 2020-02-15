@@ -6,3 +6,6 @@ it' ok
 oh is it 
 yes
 ok thank u
+going to
+check revert
+command
