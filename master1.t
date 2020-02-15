@@ -1,0 +1,8 @@
+I am srikanth 
+this is first step of learing of git
+it's amazing expeirence for learning git
+It's good
+it' ok
+oh is it 
+yes
+ok thank u
